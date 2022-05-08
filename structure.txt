@@ -1,0 +1,10 @@
+1) Summery
+2) Project
+3) Component
+4) Version
+5) Priority
+6) Severity
+7) Steps of Reproduce
+8) Action Result
+9) Expected Result
+10) Addinional information
